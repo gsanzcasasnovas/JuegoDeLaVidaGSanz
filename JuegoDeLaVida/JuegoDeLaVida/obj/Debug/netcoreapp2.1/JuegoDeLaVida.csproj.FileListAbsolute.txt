@@ -1,0 +1,11 @@
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\netcoreapp2.1\JuegoDeLaVida.deps.json
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\netcoreapp2.1\JuegoDeLaVida.runtimeconfig.json
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\netcoreapp2.1\JuegoDeLaVida.runtimeconfig.dev.json
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\netcoreapp2.1\JuegoDeLaVida.dll
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\bin\Debug\netcoreapp2.1\JuegoDeLaVida.pdb
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\netcoreapp2.1\JuegoDeLaVida.csprojAssemblyReference.cache
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\netcoreapp2.1\JuegoDeLaVida.csproj.CoreCompileInputs.cache
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\netcoreapp2.1\JuegoDeLaVida.AssemblyInfoInputs.cache
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\netcoreapp2.1\JuegoDeLaVida.AssemblyInfo.cs
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\netcoreapp2.1\JuegoDeLaVida.dll
+C:\Users\gwyle\source\repos\JuegoDeLaVida\JuegoDeLaVida\obj\Debug\netcoreapp2.1\JuegoDeLaVida.pdb
